@@ -1,0 +1,4 @@
+#Thu Nov 30 18:19:46 CET 2023
+base.0=/home/mohamed/Desktop/resources/Udemy/flutter/Dr. Angela Yu/mi_card_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
